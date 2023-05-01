@@ -102,6 +102,7 @@ public class Orden {
 	public void setDetalle(DetalleOrden detalle) {
 		this.detalle = detalle;
 	}
+	
 
 	@Override
 	public String toString() {
